@@ -456,7 +456,12 @@ Annual savings are compared with monthly billing and require upfront payment. Of
 
   </details>
 
-- <img src="assets/favicons/typeui.png" width="16" height="16" alt=""> **[TypeUI](https://typeui.sh/)** - AI design skills, prompts, and website analytics.
+- **[Social Fetch](https://www.socialfetch.dev/black-friday)** - Public social data API and MCP server for AI agents.
+
+  <details>
+  <summary><strong>Double credits on every plan</strong>strong></summary>summary>
+
+  Social Fetch gives new plans double credits from 19 Nov to 1 Dec 2026. It is applied automatically at checkout, with no code. New monthly plans get double credits in month one, and new annual plans get doub</strong></summary>- <img src="assets/favicons/typeui.png" width="16" height="16" alt=""> **[TypeUI](https://typeui.sh/)** - AI design skills, prompts, and website analytics.
 
   <details>
   <summary><strong>Two months free with yearly billing</strong></summary>
